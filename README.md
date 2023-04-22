@@ -1,2 +1,1 @@
-# discurso
-Discurso
+Mapa conceptual discurso
